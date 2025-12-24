@@ -1,2 +1,2 @@
-# API-LCLI-Banking-System
+# API-CLI-Banking-System
 CLI Banking System
